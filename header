@@ -1,0 +1,26 @@
+.header {
+    background-color: #1f1f1f;
+    color: #fff;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header .navigation {
+    display: flex;
+    gap: 15px;
+}
+
+.header .nav-list {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.header-contact {
+    text-align: right;
+}
