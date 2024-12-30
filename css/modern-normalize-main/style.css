@@ -18,4 +18,17 @@ h1, h2, h3, p {
 
 .section {
     padding: 94px 0;
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
 }
