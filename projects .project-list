@@ -1,0 +1,11 @@
+.projects .project-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.projects img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
