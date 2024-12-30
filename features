@@ -14,4 +14,15 @@
 .feature h3 {
     font-size: 18px;
     margin-bottom: 10px;
+
+.projects .project-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.team-members {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }
